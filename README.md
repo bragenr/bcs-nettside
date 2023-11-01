@@ -1,3 +1,5 @@
+https://bcs-cv.bragenr.com/
+
 # Nettside for Bachelor-CV
 Hostes på DigitalOcean med Cloudflare WAF og DNS
 
